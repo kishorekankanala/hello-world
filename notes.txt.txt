@@ -1,0 +1,4 @@
+JDK - 20 
+INTILLIJ IDEA
+Git
+Maven
